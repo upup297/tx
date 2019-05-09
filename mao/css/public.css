@@ -1,0 +1,11 @@
+
+@charset 'utf-8';
+/*css reset 样式重置*/
+*{margin:0;padding:0;}
+ul,ol,li{list-style:none;}
+a,u{text-decoration: none;}
+em,i{font-style:normal;}
+
+h1,h2,h3,h4,h5,h6{font-size:16px;font-weight:normal;}
+input{outline:none;}
+img{display:block;}

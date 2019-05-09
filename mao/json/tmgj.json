@@ -1,0 +1,387 @@
+{
+	"classify001":{
+		"name" : "迪奥",
+		"list" : [
+			{
+				"id" : "shop012",
+				"src":"lll.jpg",
+				"name":"薇诺娜舒敏保湿喷雾50ml 舒缓修护敏感肌肤爽肤水 随时补水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop0012",
+				"src":"lll.jpg",
+				"name":"薇诺娜舒敏保湿喷雾50ml 舒缓修护敏感肌肤爽肤水 随时补水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop03",
+				"src":"lll.jpg",
+				"name":"薇诺娜舒敏保湿喷雾50ml 舒缓修护敏感肌肤爽肤水 随时补水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop04",
+				"src":"lll.jpg",
+				"name":"薇诺娜舒敏保湿喷雾50ml 舒缓修护敏感肌肤爽肤水 随时补水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop05",
+				"src":"lll.jpg",
+				"name":"薇诺娜舒敏保湿喷雾50ml 舒缓修护敏感肌肤爽肤水 随时补水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop06",
+				"src":"lll.jpg",
+				"name":"薇诺娜舒敏保湿喷雾50ml 舒缓修护敏感肌肤爽肤水 随时补水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop07",
+				"src":"lll.jpg",
+				"name":"薇诺娜舒敏保湿喷雾50ml 舒缓修护敏感肌肤爽肤水 随时补水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop08",
+				"src":"lll.jpg",
+				"name":"薇诺娜舒敏保湿喷雾50ml 舒缓修护敏感肌肤爽肤水 随时补水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			}
+		]
+	},
+	"classify002":{
+		"name" : "防晒",
+		"list" : [
+			{
+				"id" : "shop6611",
+				"src":"fs.jpg",
+				"name":"日本ANESSA安耐晒进口金瓶安热沙防晒乳防水隔离SPF50+60ml",
+				"price":"￥399",
+				"small":"fmask.jpg",
+				"big":"fbig.jpg",
+				"bottom":"fsmall.jpg"
+			},
+			{
+				"id" : "shop02",
+				"src":"fs.jpg",
+				"name":"日本ANESSA安耐晒进口金瓶安热沙防晒乳防水隔离SPF50+60ml",
+				"price":"￥399",
+				"small":"fmask.jpg",
+				"big":"fbig.jpg",
+				"bottom":"fsmall.jpg"
+			},
+			{
+				"id" : "shop13",
+				"src":"fs.jpg",
+				"name":"日本ANESSA安耐晒进口金瓶安热沙防晒乳防水隔离SPF50+60ml",
+				"price":"￥399",
+				"small":"fmask.jpg",
+				"big":"fbig.jpg",
+				"bottom":"fsmall.jpg"
+			},
+			{
+				"id" : "shop04",
+				"src":"fs.jpg",
+				"name":"日本ANESSA安耐晒进口金瓶安热沙防晒乳防水隔离SPF50+60ml",
+				"price":"￥399",
+				"small":"fmask.jpg",
+				"big":"fbig.jpg",
+				"bottom":"fsmall.jpg"
+			},
+			{
+				"id" : "shop15",
+				"src":"fs.jpg",
+				"name":"日本ANESSA安耐晒进口金瓶安热沙防晒乳防水隔离SPF50+60ml",
+				"price":"￥399",
+				"small":"fmask.jpg",
+				"big":"fbig.jpg",
+				"bottom":"fsmall.jpg"
+			},
+			{
+				"id" : "shop16",
+				"src":"fs.jpg",
+				"name":"日本ANESSA安耐晒进口金瓶安热沙防晒乳防水隔离SPF50+60ml",
+				"price":"￥399",
+				"small":"fmask.jpg",
+				"big":"fbig.jpg",
+				"bottom":"fsmall.jpg"
+			},
+			{
+				"id" : "shop17",
+				"src":"fs.jpg",
+				"name":"日本ANESSA安耐晒进口金瓶安热沙防晒乳防水隔离SPF50+60ml",
+				"price":"￥399",
+				"small":"fmask.jpg",
+				"big":"fbig.jpg",
+				"bottom":"fsmall.jpg"
+			},
+			{
+				"id" : "shop18",
+				"src":"fs.jpg",
+				"name":"日本ANESSA安耐晒进口金瓶安热沙防晒乳防水隔离SPF50+60ml",
+				"price":"￥399",
+				"small":"fmask.jpg",
+				"big":"fbig.jpg",
+				"bottom":"fsmall.jpg"
+			}
+		]
+	},
+	"classify003":{
+		"name" : "面膜",
+		"list" : [
+			{
+				"id" : "shop6611",
+				"src":"mmo.jpg",
+				"name":"一叶子樱花玫瑰补水面膜20片 保湿滋润",
+				"price":"￥159",
+				"small":"mmask.jpg",
+				"big":"mbig.jpg",
+				"bottom":"msmall.jpg"
+			},
+			{
+				"id" : "shop02",
+				"src":"mmo.jpg",
+				"name":"一叶子樱花玫瑰补水面膜20片 保湿滋润",
+				"price":"￥159",
+				"small":"mmask.jpg",
+				"big":"mbig.jpg",
+				"bottom":"msmall.jpg"
+			},
+			{
+				"id" : "shop13",
+				"src":"mmo.jpg",
+				"name":"一叶子樱花玫瑰补水面膜20片 保湿滋润",
+				"price":"￥159",
+				"small":"mmask.jpg",
+				"big":"mbig.jpg",
+				"bottom":"msmall.jpg"
+			},
+			{
+				"id" : "shop04",
+				"src":"mmo.jpg",
+				"name":"一叶子樱花玫瑰补水面膜20片 保湿滋润",
+				"price":"￥68",
+				"small":"mmask.jpg",
+				"big":"mbig.jpg",
+				"bottom":"msmall.jpg"
+			},
+			{
+				"id" : "shop15",
+				"src":"mmo.jpg",
+				"name":"一叶子樱花玫瑰补水面膜20片 保湿滋润",
+				"price":"￥159",
+				"small":"mmask.jpg",
+				"big":"mbig.jpg",
+				"bottom":"msmall.jpg"
+			},
+			{
+				"id" : "shop16",
+				"src":"mmo.jpg",
+				"name":"一叶子樱花玫瑰补水面膜20片 保湿滋润",
+				"price":"￥159",
+				"small":"mmask.jpg",
+				"big":"mbig.jpg",
+				"bottom":"msmall.jpg"
+			},
+			{
+				"id" : "shop17",
+				"src":"mmo.jpg",
+				"name":"一叶子樱花玫瑰补水面膜20片 保湿滋润",
+				"price":"￥159",
+				"small":"mmask.jpg",
+				"big":"mbig.jpg",
+				"bottom":"msmall.jpg"
+			},
+			{
+				"id" : "shop18",
+				"src":"mmo.jpg",
+				"name":"一叶子樱花玫瑰补水面膜20片 保湿滋润",
+				"price":"￥159",
+				"small":"mmask.jpg",
+				"big":"mbig.jpg",
+				"bottom":"msmall.jpg"
+			}
+		]
+	},
+	"classify004":{
+		"name" : "YSL",
+		"list" : [
+			{
+				"id" : "shop6611",
+				"src":"ysl.jpg",
+				"name":"  YSL圣罗兰纯口红 方管姨妈色 正品",
+				"price":"￥320",
+				"small":"smask.jpg",
+				"big":"sbig.jpg",
+				"bottom":"ssmall.jpg"
+			},
+			{
+				"id" : "shop02",
+				"src":"ysl.jpg",
+				"name":" YSL圣罗兰纯口红 方管姨妈色 正品",
+				"price":"￥320",
+				"small":"smask.jpg",
+				"big":"sbig.jpg",
+				"bottom":"ssmall.jpg"
+			},
+			{
+				"id" : "shop13",
+				"src":"ysl.jpg",
+				"name":"  YSL圣罗兰纯口红 方管姨妈色 正品",
+				"price":"￥320",
+				"small":"smask.jpg",
+				"big":"sbig.jpg",
+				"bottom":"ssmall.jpg"
+			},
+			{
+				"id" : "shop04",
+				"src":"ysl.jpg",
+				"name":"  YSL圣罗兰纯口红 方管姨妈色 正品",
+				"price":"￥320",
+				"small":"smask.jpg",
+				"big":"sbig.jpg",
+				"bottom":"ssmall.jpg"
+			},
+			{
+				"id" : "shop15",
+				"src":"ysl.jpg",
+				"name":"  YSL圣罗兰纯口红 方管姨妈色 正品",
+				"price":"￥320",
+				"small":"smask.jpg",
+				"big":"sbig.jpg",
+				"bottom":"ssmall.jpg"
+			},
+			{
+				"id" : "shop16",
+				"src":"ysl.jpg",
+				"name":"  YSL圣罗兰纯口红 方管姨妈色 正品",
+				"price":"￥320",
+				"small":"smask.jpg",
+				"big":"sbig.jpg",
+				"bottom":"ssmall.jpg"
+			},
+			{
+				"id" : "shop17",
+				"src":"ysl.jpg",
+				"name":"  YSL圣罗兰纯口红 方管姨妈色 正品",
+				"price":"￥320",
+				"small":"smask.jpg",
+				"big":"sbig.jpg",
+				"bottom":"ssmall.jpg"
+			},
+			{
+				"id" : "shop18",
+				"src":"ysl.jpg",
+				"name":" YSL圣罗兰纯口红 方管姨妈色 正品",
+				"price":"￥320",
+				"small":"smask.jpg",
+				"big":"sbig.jpg",
+				"bottom":"ssmall.jpg"
+			}
+		]
+	},
+	"classify005":{
+		"name" : "口红",
+		"list" : [
+			{
+				"id" : "shop6611",
+				"src":"lll.jpg",
+				"name":"Dior/迪奥 烈艳蓝金唇膏 滋润 保湿 防水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop02",
+				"src":"lll.jpg",
+				"name":"Dior/迪奥 烈艳蓝金唇膏 滋润 保湿 防水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop13",
+				"src":"lll.jpg",
+				"name":"Dior/迪奥 烈艳蓝金唇膏 滋润 保湿 防水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop04",
+				"src":"lll.jpg",
+				"name":"Dior/迪奥 烈艳蓝金唇膏 滋润 保湿 防水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop15",
+				"src":"lll.jpg",
+				"name":"Dior/迪奥 烈艳蓝金唇膏 滋润 保湿 防水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop16",
+				"src":"lll.jpg",
+				"name":"Dior/迪奥 烈艳蓝金唇膏 滋润 保湿 防水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop17",
+				"src":"lll.jpg",
+				"name":"Dior/迪奥 烈艳蓝金唇膏 滋润 保湿 防水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			},
+			{
+				"id" : "shop18",
+				"src":"lll.jpg",
+				"name":"Dior/迪奥 烈艳蓝金唇膏 滋润 保湿 防水",
+				"price":"￥320",
+				"small":"mask.jpg",
+				"big":"big.jpg",
+				"bottom":"small.jpg"
+			}
+		]
+	}
+}

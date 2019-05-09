@@ -1,0 +1,775 @@
+//注册页面css样式
+@charset 'utf-8';
+* {
+	box-sizing: border-box;
+}
+
+html,
+body,
+ul,
+li,
+ol,
+dl,
+dd,
+dt,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+legend,
+img,
+input,
+figure {
+	margin: 0;
+	padding: 0;
+}
+
+i,
+a {
+	font-style: normal;
+}
+
+b,
+strong {
+	font-weight: normal;
+}
+
+u,
+a {
+	text-decoration: none;
+}
+
+ul,
+li,
+ol {
+	list-style: none;
+}
+
+img {
+	border: 0;
+	display: block;
+}
+
+input {
+	outline: none;
+}
+/*顶部 logo*/
+
+#reg .regCon{
+	width: 1210px;
+	height: 76px;
+	/*background:pink;*/
+	margin: 0 auto;
+	/*margin-top: 34px;*/
+}
+
+#reg .regCon .regComTitle{
+	width: 96px;
+	height: 34px;
+	/*background: paleturquoise;*/
+	float: left;
+	margin-top: 34px;
+	color: #333333;
+	line-height: 34px;
+	font-size: 24px;
+}
+#reg .regCon .regCon_right{
+	width: 145px;
+	height: 21px;
+	margin-top: 55px;
+	color: #999;
+	font-size: 16px;
+	line-height: 21px;
+	float: right;
+}
+#reg .regCon .regCon_right .regCon_rightTitle{
+	color: red;
+}
+/*注册输入框版心区*/
+#regInput_Con{
+	width: 1210px;
+	height: 407px;
+	/*background: palegreen;*/
+	margin: 0 auto;
+	/*position: absolute;*/
+}
+/*精灵图区域*/
+#regInput_Con .regInput_top{
+	width: 400px;
+	height: 55px;
+	/*background: paleturquoise;*/
+	margin: 80px auto 0;
+	position: relative;
+	/*display: none;*/
+}
+#regInput_Con .regInput_top .regInput_top_one{
+	width: 60px;
+	height: 55px;
+	/*background: papayawhip;*/
+	float: left;
+	text-align: center;
+	
+}
+#regInput_Con .regInput_top .regInput_top_one .s1{
+	display: block;
+	width: 24px;
+	height: 24px;
+	/*background:url(../images/reg-icon.png);*/
+	/*position: absolute;*/
+	margin: 0 auto;
+	/*background: red;*/
+	line-height: 24px;
+	font-size: 12px;
+	font-weight: 700;
+	color: white;
+	background:url(../images/reg-icon.png);
+	background-position-x: 0;
+	background-position-y: -200px;
+}
+#regInput_Con .regInput_top .regInput_top_one .p1{
+	color: green;
+	font-size: 12px;
+	margin-top: 10px;
+}
+#regInput_Con .regInput_top .xuxian1{
+	width: 124px;
+	height: 10px;
+	/*background: peru;*/
+	position: absolute;
+	left: 55px;
+	top: 7px;
+	background: url(../images/reg-icon.png);
+	background-position-x: 0;
+	background-position-y: -100px;
+}
+#regInput_Con .regInput_top .regInput_top_two{
+	width: 72px;
+	height: 55px;
+	/*background: palevioletred;*/
+	float: left;
+	margin-left: 106px;
+}
+#regInput_Con .regInput_top .regInput_top_two .s2{
+	display: block;
+	width: 24px;
+	height: 24px;
+	/*background:url(../images/reg-icon.png);*/
+	/*position: absolute;*/
+	margin: 0 auto;
+	/*background: red;*/
+	line-height: 24px;
+	font-size: 12px;
+	font-weight: 700;
+	color: #cccc;
+	background:url(../images/reg-icon.png);
+	background-position-x: -45px;
+	background-position-y: -200px;
+	text-align: center;
+}
+#regInput_Con .regInput_top .regInput_top_two .p2{
+	color: #ccc;
+	font-size: 12px;
+	margin-top: 10px;
+}
+#regInput_Con .regInput_top .xuxian2{
+	width: 124px;
+	height: 10px;
+	/*background: peru;*/
+	position: absolute;
+	left: 228px;
+	top: 7px;
+	background: url(../images/reg-icon.png);
+	background-position-x: 0;
+	background-position-y: -100px;
+}
+#regInput_Con .regInput_top .regInput_top_three{
+	width: 48px;
+	height: 55px;
+/*	background: palevioletred;*/
+	float: left;
+	margin-left: 112px;
+}
+#regInput_Con .regInput_top .regInput_top_three .s3{
+	display: block;
+	width: 24px;
+	height: 24px;
+	/*background:url(../images/reg-icon.png);*/
+	/*position: absolute;*/
+	margin: 0 auto;
+	/*background: red;*/
+	line-height: 24px;
+	font-size: 12px;
+	font-weight: 700;
+	color: #ccc;
+	background:url(../images/reg-icon.png);
+	background-position-x: -45px;
+	background-position-y: -200px;
+	text-align: center;
+}
+#regInput_Con .regInput_top .regInput_top_three .p3{
+	color: #CCCCCC;
+	font-size: 12px;
+	margin-top: 10px;
+}
+/*输入框区域*/
+#regInput_Con .regInputMain{
+	width: 400px;
+	height: 302px;
+	/*background: peachpuff;*/
+	margin: 50px auto 186px;
+}
+#regInput_Con .regInputMain .regInputMain_top{
+	width: 400px;
+	height: 246px;
+	/*background: palevioletred;*/
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1{
+	width: 400px;
+	height: 86px;
+	/*background: plum;*/
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1{
+	width: 400px;
+	height: 52px;
+/*	background: red;*/
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left{
+	width: 88px;
+	height: 52px;
+	/*background: paleturquoise;*/
+	font-size: 13px;
+	line-height: 52px;
+	padding-left: 20px;
+	cursor: pointer;
+	border: 1px solid #ccc;
+	border-right: none;
+	color: #666;
+	float: left;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .inputDiv1_1_left_China{
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	/*background: peru;*/
+	margin-top: 15px;
+	margin-left: 5px;
+	background: url(../images/icon.png)no-repeat;
+	background-position-x: -2px;
+	background-position-y: -150px;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_right{
+	width: 288px;
+	height: 52px;
+	border: 1px solid #CCCCCC;
+	float: left;
+	/*background: paleturquoise;*/
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_right .rightInput{
+	padding-bottom: 11px;
+	padding-left: 20px;
+	padding-top: 16px;
+	border: none;
+	height: 22px;
+	font-size: 12px;
+}
+#regInput_Con .regInputMain .regInputMain_top .regInputMain_middle{
+	width: 400px;
+	height: 86px;
+/*	background: papayawhip;*/
+}
+#regInput_Con .regInputMain .regInputMain_top .regInputMain_middle .regInputMain_middle_a{
+	display: block;
+	width: 398px;
+	height: 52px;
+	border: 1px solid #ccc;
+	font-size: 12px;
+	color:#666 ;
+	text-align: center;
+	line-height: 52px;
+}
+#regInput_Con .regInputMain .regInputMain_top .regInputMain_middle_bottom{
+	width: 400px;
+	height: 54px;
+	background:#e2231a;
+	font-size: 12px;
+	color: white;
+	text-align: center;
+	line-height: 54px;
+	cursor: pointer;
+	margin-top: 20px;
+}
+#regInput_Con .regInputMain .regInputMain_bottom{
+	width: 400px;
+	height: 28px;
+/*	background: palevioletred;*/
+	margin-top: 28px;
+}
+#regInput_Con .regInputMain .regInputMain_bottom .firm{
+	width: 118px;
+	height: 28px;
+/*	background: palegoldenrod;*/
+	float: left;
+	text-align: center;
+	line-height: 28px;
+}
+#regInput_Con .regInputMain .regInputMain_bottom .inter{
+	width: 104px;
+	height: 28px;
+/*	background: palegoldenrod;*/
+	float: right;
+	text-align: center;
+	line-height: 28px;
+
+}
+
+/*遮罩层*/
+#mask{
+	width:100%;
+	height: 100%;
+	background: black;
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0.15;
+	z-index: 9999;
+}
+/*遮罩层固定*/
+#maskCon{
+	width: 947px;
+	height: 596px;
+	border:2px solid #ccc;
+	z-index: 10000;
+	position: fixed;
+	left: 0;
+	top: 65px;
+	right: 0;
+	bottom:0;
+	margin: 0 auto;
+	background:white;
+	display: block;
+}
+#maskCon .maskCon_top{
+	width: 927px;
+	height: 31px;
+/*	background:#CCCCCC;
+	opacity: 0.1;*/
+	margin: 0 auto;
+}
+#maskCon .maskCon_top .maskCon_wenzi{
+	width: 182px;
+	height: 31px;
+	line-height: 31px;
+	color: #000000;
+	font-weight: 900;
+	font-size: 13px;
+	float: left;
+}
+#maskCon .maskCon_top .maskCon_cha{
+	display: block;
+	width: 15px;
+	height: 15px;
+	font-weight: 20px;
+	color:red;
+	font-weight: 900;
+	float: right;
+	line-height: 15px;
+	/*background:whitesmoke;*/
+	opacity: 0.5;
+	text-align: center;
+	margin-top: 7px;
+}
+#maskCon .maskCon_bottom{
+	width: 930px;
+	height: 460px;
+	/*background: pink;*/
+	margin: 10px auto;
+	margin-bottom: 20px;
+	overflow:auto;
+	position: relative;
+	
+}
+#maskCon .maskCon_bottom .maskCon_bottomCon{
+	width: 900px;
+	height: 450px;
+	/*background: palegreen;*/
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 8px;
+	bottom: 0;
+	margin: 0 auto;
+}
+#maskCon .maskCon_bottom .maskCon_bottomCon .maskCon_show{
+	width: 900px;
+	height: 49px;
+	/*background:#CCCCCC;*/
+}
+#maskCon .maskCon_bottom .maskCon_bottomCon .maskCon_show .maskCon_show1{
+	width: 900px;
+	height: 20px;
+	/*background: red;*/
+}
+#maskCon .maskCon_bottom .maskCon_bottomCon .maskCon_show .maskCon_show2{
+	font-size: 12px;
+	color: #000000;
+	font-weight: 700;
+}
+
+
+#maskCon .maskCon_bottom .maskCon_bottomCon .maskCon_Un{
+	width: 900px;
+	height: 61px;
+	/*background: paleturquoise;*/
+}
+#maskCon .maskCon_bottom .maskCon_bottomCon .maskCon_Un .maskCon_Un1{
+	font-size: 12px;
+	color: #000000;
+	font-weight: 700;
+	/*margin-bottom: 2px;*/
+	
+}
+
+
+#maskCon .maskCon_bottom .maskCon_bottomCon .maskCon_hide .maskCon_hide1 .maskCon_hide3{
+	width: 900px;
+	height: 28px;
+	/*background: papayawhip;*/
+	font-size: 12px;
+	color: #000000;
+	font-weight: 700;
+}
+/*两个按钮固定框里*/
+#maskCon .maskCon_anniu{
+	width: 900px;
+	height: 55px;
+	/*background: darkgoldenrod;*/
+	margin: 0 auto;
+}
+#maskCon .maskCon_anniu .maskCon_anniu_Con{
+	width: 430px;
+	height: 55px;
+	/*background: palegoldenrod;*/
+	margin: 0 auto;
+}
+#maskCon .maskCon_anniu .maskCon_anniu_Con .maskCon_anniu_Con1{
+	display: block;
+	width: 200px;
+	height: 55px;
+	background: #CCCCCC;
+	color: #666666;
+	font-size: 13px;
+	text-align: center;
+	line-height: 55px;
+	float: left;
+	opacity: 0.8;
+}
+#maskCon .maskCon_anniu .maskCon_anniu_Con .maskCon_anniu_Con2{
+	display: block;
+	width: 200px;
+	height: 55px;
+	background: red;
+	color: white;
+	font-size: 13px;
+	text-align: center;
+	line-height: 55px;
+	float: right;
+	margin-left: 0;
+}
+/*手机号里隐藏的语言div*/
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .hide_ChinaDiv{
+	width: 344px;
+	height: 303px;
+	background:#F8F8FF;
+	position: absolute;
+	left: -1px;
+	top: 59px;
+	box-shadow: 0 15px 30px rgba(0,0,0,.3);
+	display: none;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .hide_ChinaDiv .hide_ChinaDiv_input{
+	width: 316px;
+	height: 42px;
+	/*background: deeppink;*/
+	margin: 0 auto;
+	margin-bottom: 12px;
+	position: relative;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .hide_ChinaDiv .hide_ChinaDiv_input .zz{
+	display: block;
+	width: 17px;
+	height: 16px;
+	background: url(../images/search-icon.png)no-repeat;
+	position: absolute;
+	top: 13px;
+	left: 10px;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .hide_ChinaDiv .hide_ChinaDiv_input .hide_ChinaDiv_input1{
+	display:block;
+	width: 274px;
+	height: 42px;
+	color: #666666;
+	font-size: 12px;
+	line-height: 42px;
+	margin-top: 10px;
+	background:#EEEEEE;
+	border: none;
+	padding-left: 42px;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .hide_ChinaDiv .twoSix{
+	width: 316px;
+	height: 40px;
+	/*background: papayawhip;*/
+	margin: 0 auto;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .hide_ChinaDiv .twoSix .twoSix_one{
+	display:block;
+	width: 10px;
+	height: 20px;
+	float: left;
+	color:#666;
+	font-size: 12px;
+	margin-right: 10px;
+	line-height: 25px;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .hide_ChinaDiv .twoSix_bottom{
+	width: 316px;
+	height: 21px;
+	/*background: paleturquoise;*/
+	margin: 0 auto;
+	color: #666666;
+	font-size: 12px;
+	line-height: 21px;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .hide_ChinaDiv .hideDivscroll{
+	width: 316px;
+	height: 160px;
+	/*background: red;*/
+	margin: 9px auto;
+	overflow: auto;
+}
+#regInput_Con .regInputMain .regInputMain_top .inputDiv1 .inputDiv1_1 .inputDiv1_1_left .hide_ChinaDiv .hideDivscroll .hideDivscroll_1{
+	width: 316px;
+	height: 21px;
+	/*background:#AFEEEE;*/
+	margin-bottom: 12px;
+	line-height: 21px;
+
+}
+
+
+
+
+
+
+
+
+
+
+/*填写用户信息*/
+#Account{
+	width: 1210px;
+	height: 507px;
+	background: #fff;
+	margin: -137px auto;
+	position: absolute;
+	z-index: 23;
+	display: none;
+	padding-bottom: 40px;
+}
+#Account .regInput_top{
+	width: 400px;
+	height: 55px;
+	margin: 80px auto 0;
+	position: relative;
+}
+#Account .regInput_top .regInput_top_one{
+	width: 60px;
+	height: 55px;
+	float: left;
+	text-align: center;
+	
+}
+#Account .regInput_top .regInput_top_one .s1{
+	display: block;
+	width: 24px;
+	height: 24px;
+	margin: 0 auto;
+	line-height: 24px;
+	font-size: 12px;
+	font-weight: 700;
+	color: white;
+	background:url(../images/reg-icon.png);
+	background-position-x: 0;
+	background-position-y: 0;
+}
+#Account .regInput_top .regInput_top_one .p1{
+	color: green;
+	font-size: 12px;
+	margin-top: 10px;
+}
+#Account .regInput_top .xuxian1{
+	width: 124px;
+	height: 10px;
+	position: absolute;
+	left: 55px;
+	top: 7px;
+	background: url(../images/reg-icon.png);
+	background-position-x: 0;
+	background-position-y: -130px;
+}
+#Account .regInput_top .regInput_top_two{
+	width: 72px;
+	height: 55px;
+	float: left;
+	margin-left: 106px;
+}
+#Account .regInput_top .regInput_top_two .s2{
+	display: block;
+	width: 24px;
+	height: 24px;
+	margin: 0 auto;
+	line-height: 24px;
+	font-size: 12px;
+	font-weight: 700;
+	color: #fff;
+	background:url(../images/reg-icon.png);
+	background-position-x: 0;
+	background-position-y: -200px;
+	text-align: center;
+}
+#Account .regInput_top .regInput_top_two .p2{
+	color: green;
+	font-size: 12px;
+	margin-top: 10px;
+}
+#Account .regInput_top .xuxian2{
+	width: 124px;
+	height: 10px;
+	position: absolute;
+	left: 228px;
+	top: 7px;
+	background: url(../images/reg-icon.png);
+	background-position-x: 0;
+	background-position-y: -100px;
+}
+#Account .regInput_top .regInput_top_three{
+	width: 48px;
+	height: 55px;
+	float: left;
+	margin-left: 112px;
+}
+#Account .regInput_top .regInput_top_three .s3{
+	display: block;
+	width: 24px;
+	height: 24px;
+	margin: 0 auto;
+	line-height: 24px;
+	font-size: 12px;
+	font-weight: 700;
+	color: #ccc;
+	background:url(../images/reg-icon.png);
+	background-position-x: -45px;
+	background-position-y: -200px;
+	text-align: center;
+}
+#Account .regInput_top .regInput_top_three .p3{
+	color: #CCCCCC;
+	font-size: 12px;
+	margin-top: 10px;
+}
+#Account .AccInput{
+	width: 400px;
+	height: 54px;
+	border: 1px solid black;
+	margin-bottom: 32px;
+}
+#Account .AccInput span{
+	display: block;
+	float: left;
+	width: 87px;
+	height: 50px;
+	line-height: 50px;
+	padding-left: 20px;
+	color: #666666;
+	font-size: 13px;
+}
+#Account .AccInput input{
+	width: 190px;
+	height: 19px;
+	color: #ccc;
+	font-size: 12px;
+	border:none;
+	padding-left: 20px;
+	padding-top: 16px;
+	padding-bottom: 11px;
+}
+#Account .AccInput .ImportName{
+	color: #CCCCCC;
+	font-size: 11px;
+	position: absolute;
+	left: 405px;
+	top: 243px;
+	display: none;
+}
+#Account em{
+	font-style: normal;
+}
+#Accomp{
+	width: 1210px;
+	height: 507px;
+	background: #fff;
+	margin: -137px auto;
+	position: absolute;
+	z-index: 24;
+	/*display: none;*/
+	padding-bottom: 40px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: none;
+}
+#Accomp .AccompTop{
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+}
+#Accomp .AccompTop .AccWen{
+	width: 60px;
+	height: 60px;
+	margin: 0 auto;
+}
+#Accomp .AccompTop h3{
+	text-align: center;
+	margin-top: 10px;
+}
+#Accomp .AccompTop p{
+	color: #666666;
+	text-align: center;
+	margin-top: 10px;
+}
+#Accomp .AccompTop .AccDiv{
+	width: 70px;
+	height: 40px;
+	background:#CC0000;
+	margin: 0 auto;
+	color: #fff;
+	font-size: 13px;
+	text-align: center;
+	line-height: 40px;
+	margin-top: 40px;
+	cursor: pointer;
+}
+#Accomp .AccmpBottom{
+	width: 600px;
+	height: 180px;
+	/*background: pink;*/
+	padding-top: 20px;
+	margin: auto;
+}
+#Accomp .AccmpBottom img{
+	margin: auto;
+}

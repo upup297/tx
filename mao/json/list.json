@@ -1,0 +1,593 @@
+{
+	"list":[
+	
+			{
+			
+			"id":"l1",
+			"src":"l1.jpg",
+			"price":"￥299",
+			"name":"Dior1/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l1s.jpg",
+			"big":"l1.jpg",
+			"bottom":"l1_50.jpg"
+			},
+			{
+			
+			"id":"l2",
+			"src":"l2.jpg",
+			"price":"￥155",
+			"name":"ysl1 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l2_350.jpg",
+			"big":"l2_800.jpg",
+			"bottom":"l2_50.jpg"
+			},
+			{
+			
+			"id":"l3",
+			"src":"l3.jpg",
+			"price":"￥300",
+			"name":"ysl2/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l3_350.jpg",
+			"big":"l3_800.jpg",
+			"bottom":"l3_50.jpg"
+			},
+			
+			{
+			
+			"id":"l14",
+			"src":"l4.jpg",
+			"price":"￥359",
+			"name":"ysl13/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l4_350.jpg",
+			"big":"l4_800.jpg",
+			"bottom":"l4_50.jpg"
+			},
+			
+			{
+			
+			"id":"l15",
+			"src":"l1.jpg",
+			"price":"￥299",
+			"name":"Dior/33迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l1s.jpg",
+			"big":"l1.jpg",
+			"bottom":"l1_50.jpg"
+			},
+			{
+			
+			"id":"l16",
+			"src":"ll6.jpg",
+			"price":"￥199",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ll6_350.jpg",
+			"big":"ll6_800.jpg",
+			"bottom":"ll6_50.jpg"
+			},
+			{
+			
+			"id":"l17",
+			"src":"ll7.jpg",
+			"price":"￥300",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id146_350.jpg",
+			"big":"id146_800.jpg",
+			"bottom":"id146_50.jpg"
+			},
+			{
+			
+			"id":"l18",
+			"src":"l8.jpg",
+			"price":"￥153",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l8_350.jpg",
+			"big":"l8_800.jpg",
+			"bottom":"l8_50.jpg"
+			},
+			{
+			
+			"id":"l19",
+			"src":"l9.jpg",
+			"price":"￥199",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id19_350.jpg",
+			"big":"id19_800.jpg",
+			"bottom":"id19_50.jpg"
+			},
+			
+			{
+			
+			"id":"l21",
+			"src":"ysl.jpg",
+			"price":"￥168",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ysl_350.jpg",
+			"big":"ysl_800.jpg",
+			"bottom":"ysl_50.jpg"
+			},
+			{
+			
+			"id":"l22",
+			"src":"ysl.jpg",
+			"price":"￥168",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ysl_350.jpg",
+			"big":"ysl_800.jpg",
+			"bottom":"ysl_50.jpg"
+			},
+			{
+			
+			"id":"l23",
+			"src":"lll.jpg",
+			"price":"￥168",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			
+			"small":"id156_350.jpg",
+			"big":"id156_800.jpg",
+			"bottom":"id156_50.jpg"
+			},
+			{
+			
+			"id":"l24",
+			"src":"l1.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l1s.jpg",
+			"big":"l1.jpg",
+			"bottom":"l1_50.jpg"
+			},
+			{
+			
+			"id":"l25",
+			"src":"l2.jpg",
+			"price":"￥155",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l2_350.jpg",
+			"big":"l2_800.jpg",
+			"bottom":"l2_50.jpg"
+			},
+			{
+			
+			"id":"l26",
+			"src":"l3.jpg",
+			"price":"￥300",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l3_350.jpg",
+			"big":"l3_800.jpg",
+			"bottom":"l3_50.jpg"
+			},
+			
+			{
+			
+			"id":"l27",
+			"src":"l4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l4_350.jpg",
+			"big":"l4_800.jpg",
+			"bottom":"l4_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l28",
+			"src":"l5.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l5_350.jpg",
+			"big":"l5_800.jpg",
+			"bottom":"l5_50.jpg"
+			},
+			{
+			
+			"id":"l29",
+			"src":"l4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l4_350.jpg",
+			"big":"l4_800.jpg",
+			"bottom":"l4_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l30",
+			"src":"l5.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l5_350.jpg",
+			"big":"l5_800.jpg",
+			"bottom":"l5_50.jpg"
+			
+			},
+			{
+			
+			"id":"l31",
+			"src":"l4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l4_350.jpg",
+			"big":"l4_800.jpg",
+			"bottom":"l4_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l32",
+			"src":"ll5.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ll5_350.jpg",
+			"big":"ll5_800.jpg",
+			"bottom":"ll5_50.jpg"
+			
+			
+			},
+			{
+			
+			"id":"l33",
+			"src":"l4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l4_350.jpg",
+			"big":"l4_800.jpg",
+			"bottom":"l4_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l34",
+			"src":"l5.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l5_350.jpg",
+			"big":"l5_800.jpg",
+			"bottom":"l5_50.jpg"
+			
+			},
+			{
+			
+			"id":"l35",
+			"src":"l1.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l1s.jpg",
+			"big":"l1.jpg",
+			"bottom":"l1_50.jpg"
+			
+			},
+			{
+			
+			"id":"l36",
+			"src":"ysl.jpg",
+			"price":"￥155",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ysl_350.jpg",
+			"big":"ysl_800.jpg",
+			"bottom":"ysl_50.jpg"
+			
+			},
+			{
+			
+			"id":"l37",
+			"src":"ll4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id146_350.jpg",
+			"big":"id146_800.jpg",
+			"bottom":"id146_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l38",
+			"src":"ll5.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ll5_350.jpg",
+			"big":"ll5_800.jpg",
+			"bottom":"ll5_50.jpg"
+			
+			},
+			{
+			
+			"id":"l39",
+			"src":"ysl.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ysl_350.jpg",
+			"big":"ysl_800.jpg",
+			"bottom":"ysl_50.jpg"
+			
+			},
+			{
+			
+			"id":"l40",
+			"src":"ll5.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ll5_350.jpg",
+			"big":"ll5_800.jpg",
+			"bottom":"ll5_50.jpg"
+			
+			},
+			{
+			
+			"id":"l41",
+			"src":"ll4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id146_350.jpg",
+			"big":"id146_800.jpg",
+			"bottom":"id146_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l42",
+			"src":"ll8.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id142_350.jpg",
+			"big":"id142_800.jpg",
+			"bottom":"id142_50.jpg"
+			
+			},
+			{
+			
+			"id":"l43",
+			"src":"ll7.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id146_350.jpg",
+			"big":"id146_800.jpg",
+			"bottom":"id146_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l44",
+			"src":"ysl.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ysl_350.jpg",
+			"big":"ysl_800.jpg",
+			"bottom":"ysl_50.jpg"
+			
+			},
+			{
+			
+			"id":"l45",
+			"src":"ll3.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id145_350.jpg",
+			"big":"id145_800.jpg",
+			"bottom":"id145_50.jpg"
+			
+			},
+			{
+			
+			"id":"l46",
+			"src":"ll4.jpg",
+			"price":"￥155",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id146_350.jpg",
+			"big":"id146_800.jpg",
+			"bottom":"id146_50.jpg"
+			
+			},
+			{
+			
+			"id":"l47",
+			"src":"ysl.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ysl_350.jpg",
+			"big":"ysl_800.jpg",
+			"bottom":"ysl_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l48",
+			"src":"ysl.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ysl_350.jpg",
+			"big":"ysl_800.jpg",
+			"bottom":"ysl_50.jpg"
+			
+			},
+			{
+			
+			"id":"l49",
+			"src":"l4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l4_350.jpg",
+			"big":"l4_800.jpg",
+			"bottom":"l4_50.jpg"
+			
+			},
+			{
+			
+			"id":"l50",
+			"src":"l5.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l5_350.jpg",
+			"big":"l5_800.jpg",
+			"bottom":"l5_50.jpg"
+			
+			},
+			{
+			
+			"id":"l51",
+			"src":"ll4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id146_350.jpg",
+			"big":"id146_800.jpg",
+			"bottom":"id146_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l52",
+			"src":"ll5.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ll5_350.jpg",
+			"big":"ll5_800.jpg",
+			"bottom":"ll5_50.jpg"
+			
+			},
+			{
+			
+			"id":"l53",
+			"src":"l4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"l4_350.jpg",
+			"big":"l4_800.jpg",
+			"bottom":"l4_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l54",
+			"src":"ll5.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ll5_350.jpg",
+			"big":"ll5_800.jpg",
+			"bottom":"ll5_50.jpg"
+			
+			},
+			{
+			
+			"id":"l55",
+			"src":"ysl.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ysl_350.jpg",
+			"big":"ysl_800.jpg",
+			"bottom":"ysl_50.jpg"
+
+			},
+			{
+			
+			"id":"l56",
+			"src":"lll.jpg",
+			"price":"￥155",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id156_350.jpg",
+			"big":"id156_800.jpg",
+			"bottom":"id156_50.jpg"
+			
+			},
+			{
+			
+			"id":"l57",
+			"src":"ll4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id146_350.jpg",
+			"big":"id146_800.jpg",
+			"bottom":"id146_50.jpg"
+			
+			},
+			
+			{
+			
+			"id":"l58",
+			"src":"ysl.jpg",
+			"price":"￥299",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"ysl_350.jpg",
+			"big":"ysl_800.jpg",
+			"bottom":"ysl_50.jpg"
+			
+			},
+			{
+			
+			"id":"l59",
+			"src":"ll3.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id145_350.jpg",
+			"big":"id145_800.jpg",
+			"bottom":"id145_50.jpg"
+			
+			},
+			{
+			
+			"id":"l60",
+			"src":"ll4.jpg",
+			"price":"￥359",
+			"name":"Dior/迪奥 烈艳蓝金唇膏",
+			"gm":"立即购买",
+			"small":"id146_350.jpg",
+			"big":"id146_800.jpg",
+			"bottom":"id146_50.jpg"
+			}
+	]
+}

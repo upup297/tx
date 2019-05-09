@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="iconfont/iconfont.css" />
+		
+		<style>
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		ul,ol,li{
+			list-style: none;
+		}
+			.dl{
+				width: 100%;
+			/*	background: deepskyblue;*/
+			}
+			.dl .header{
+				padding: 22px 0px;
+			    height: 44px;
+			    width: 1190px;
+			    margin: auto;
+			  /*  background: pink;*/
+			}
+			.dl .header img{
+				    margin-top: 8px;
+    				width: 190px;
+    				float: left;
+			}
+			.dl .main{
+				width: 100%;
+   				width: 100%; background-color: rgb(90, 38, 138);
+   				height: 600px;
+   				position: relative;
+   				
+			}
+			.dl .main .inner{
+			    position: relative;
+			    width: 1190px;
+			    height: 600px;
+			    margin: auto;
+			   
+			}
+			.dl .main .inner img{
+					display: block;
+					margin: auto;
+
+			    }
+			.dl .main .inner a{
+				
+			    display: block;
+			    position: absolute;
+			    top: 80px;
+			    left: 75px;
+			    width: 630px;
+			    height: 440px;
+			    border: none;
+			    outline: none;
+			    }
+		
+		.dl .main .form{
+			  
+			    position: absolute;
+			    top: 91px;
+			   width: 350px;
+			   height: 404px;
+			    background: #fff;
+		}
+		.dl .main .form>.con{
+			display: none;
+		}
+.dl .main .form .tab{
+		width: 320px;
+	    height: 45px;
+	 
+	    margin-bottom: 17px;
+	    margin-top: 17px;
+	    font-size: 18px;
+	    font-weight: 600;
+	    color: #000;
+	    line-height: 40px;
+	    margin-left: 30px;
+	}
+		.dl .main .form .tab li{
+			float: left;
+			margin-left: 45px;
+		}
+		.dl .main .form .tab li.active{
+			border-bottom: 2px solid #000;
+		}
+		.dl .main .form .con.selected{
+			display: block;
+		}
+		.dl .main .form .username{
+			width: 298px;
+			height: 42px;
+			/*background: pink;*/
+			
+			margin-bottom: 25px;
+			margin-left: 30px;
+			position: relative;
+		}
+		.dl .main .form .username label{
+			display: block;
+		    width: 40px;
+		    height: 40px;
+		    line-height: 40px;
+		    color: #fff;
+		    background: #ddd;
+		    text-align: center;
+		    position: absolute;
+		    left: 1px;
+		    top: 1px;
+		    outline: 0;
+			
+		}
+		.dl .main .form .username label i{
+			color: #606060;
+			font-size: 22px;
+		    /*line-height: 40px;
+		    font-size: 22px;
+		    */
+		}
+		.dl .main .form .username .ph{
+			position: absolute;
+		    line-height: 42px;
+		    height: 42px;
+		    color: #999;
+		    opacity: 1;
+		    transition: all .2s ease-out;
+		  /*  -webkit-transition: all .2s ease-in;
+		    -moz-transition: all .2s ease-out;*/
+		    left: 50px;
+		    top: 0;
+		    font-size: 14px;
+		}
+			.dl .main .form .username .text{
+					width: 240px;
+			    font-size: 14px;
+			    line-height: 18px;
+			    height: 18px;
+			    padding: 11px 8px 11px 50px;
+			    border: 1px solid #ddd;
+		}
+		.dl .main .form .password{
+			width: 298px;
+			height: 42px;
+			/*background: pink;*/
+			margin-bottom: 25px;
+			margin-left: 30px;
+			position: relative;
+			
+			}
+			
+			
+			.dl .main .form .password label{
+			display: block;
+		    width: 40px;
+		    height: 40px;
+		    line-height: 40px;
+		    color: #fff;
+		    background: #ddd;
+		    text-align: center;
+		    position: absolute;
+		    left: 1px;
+		    top: 1px;
+		    outline: 0;
+			
+		}
+		.dl .main .form .password label i{
+			color: #606060;
+			font-size: 22px;
+		    /*line-height: 40px;
+		    font-size: 22px;
+		    */
+		}
+		.dl .main .form .password .ph{
+			position: absolute;
+		    line-height: 42px;
+		    height: 42px;
+		    color: #999;
+		    opacity: 1;
+		    transition: all .2s ease-out;
+		    -webkit-transition: all .2s ease-in;
+		    -moz-transition: all .2s ease-out;
+		    left: 50px;
+		    top: 0;
+		    font-size: 14px;
+		}
+			.dl .main .form .password .text{
+					width: 240px;
+			    font-size: 14px;
+			    line-height: 18px;
+			    height: 18px;
+			    padding: 11px 8px 11px 50px;
+			    border: 1px solid #ddd;
+		}
+		.dl .main .form .btn{
+			width: 298px;
+			height: 42px;
+			line-height: 42px;
+			border: none;
+			border-radius: 3px;
+			margin-top: 20px;
+			margin-left: 30px;
+
+		    vertical-align: middle;
+		    line-height: 42px;
+		    font-size: 16px;
+		    font-weight: 700;
+		    color: #fff;
+		    background: #f40;
+		    border-radius: 3px;
+			
+			
+		}
+	
+		.dl .main .form .wz{
+			width: 298px;
+			height:18px;
+			/*background: blue;*/
+			margin-top: 20px;
+			text-align: right;
+			margin-left: 30px;
+		}
+		.dl .main .form .wz a{
+			color: #6c6c6c;
+			font-size: 12px;
+			text-align: right;
+			margin-right: 10px;
+		}
+		.con{
+			width: 350px;
+			height: 300px;
+			}
+			.sj{
+				height: 18px;
+				line-height: 18px;
+				font-weight: 700;
+				color: #3c3c3c;
+				font-size: 16px;
+				margin-top: 15px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="dl">
+			<div class="header">
+				<img src="images/dl.png" />
+			</div>
+			<div class="main">
+				<div class="inner">
+					<img src="images/reg.jpg">
+					<a></a>
+				</div>
+				<div class="form" style="display: block;right: 233px;">
+					<ul class="tab">
+						<li class="active">密码登陆</li>
+						<li>扫码登陆</li>
+					</ul>
+					
+					<div class="con selected">
+						<div class="username">
+							<label>
+								<i class="iconfont icon-character"></i>
+							</label>
+							<span class="ph"></span>
+							
+							<input type="text" class="text" id="uname" placeholder="会员名/邮箱/手机号"/>
+						</div>
+						<div class="password">
+							<label>
+								<i class="iconfont icon-tushuyinxiang1"></i>
+							</label>
+							<span class="ph"></span>
+							
+							<input type="password" class="text" id="upwd" placeholder=""/>
+						</div>
+						<button class="btn">登陆</button>
+						<div class="wz">
+							<a>忘记密码</a>
+							<a>忘记会员名</a>
+							<a href="register.html" style="text-decoration: none;">免费注册</a>
+						</div>
+					</div>
+					
+					<div class="con sj">
+						
+						<img src="images/sjg.png" style="display: block;margin:  auto;"/>
+					</div>
+				</div>
+			</div>
+			<div class="footer">
+				
+			</div>
+		</div>
+	</body>
+</html>
+<script src="js/jquery-1.11.1.js"></script>
+<script src="js/login.js"></script>
+<script>
+	let $list = $(".tab li");
+		$cons = $(".con")
+	$list.click(function(){
+		$(this).addClass("active")
+			.siblings()
+			.removeClass("active")
+	var index = $(this).index();
+
+	$(".con").eq(index)
+			 .addClass("selected")
+			 .siblings()
+			 .removeClass("selected")
+	})
+</script>

@@ -1,0 +1,97 @@
+[
+	{
+		"id" : "shop01",
+		"src" : "kk.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop02",
+		"src" : "kk1.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop03",
+		"src" : "kk2.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop04",
+		"src" : "klyk.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop05",
+		"src" : "klyk2.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop06",
+		"src" : "kly3.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop07",
+		"src" : "klyk4.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop08",
+		"src" : "klyk5.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop09",
+		"src" : "klyk6.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop10",
+		"src" : "kk.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop11",
+		"src" : "kk1.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop12",
+		"src" : "kk2.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop13",
+		"src" : "klyk.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop14",
+		"src" : "klyk3.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop15",
+		"src" : "klyk.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop16",
+		"src" : "kk2.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop17",
+		"src" : "klyk5.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop18",
+		"src" : "klyk6.jpg",
+		"price" : "￥1499"
+	},
+	{
+		"id" : "shop19",
+		"src" : "klyk1.jpg",
+		"price" : "￥1499"
+	}
+]

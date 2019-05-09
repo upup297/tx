@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="css/list.css" />
+		<link rel="stylesheet" href="iconfont/iconfont.css" />
+		<link rel="stylesheet" href="css/public.css" />
+		<script src="js/cookie.js"></script>
+		<style>
+			/**{
+				margin: 0;
+				padding: 0;
+				border: 0;
+			}*/
+		</style>
+		
+	</head>
+	<body>
+		<div class="yout">
+			<div class="yout-1">
+				<div>
+					<img src="images/yc1.png"/>
+					<div class="you-tan">会员权益<div class="sanjiao">◆</div></div>
+				</div>
+				<div class="gouwu"><i class="iconfont icon-gouwuchekong"><!--<span id="shopcar" style="position: absolute;top: 1px;right: 8px;font-weight: bold;color: white;">1</span>--></i><p>购物车</p></div>
+				<div><img src="images/yc2.png"/><div class="you-tan">我的资产<div class="sanjiao">◆</div></div></div>
+				<div><img src="images/yc3.png"/><div class="you-tan">我的收藏<div class="sanjiao">◆</div></div></div>
+				<div><img src="images/yc4.png"/><div class="you-tan">我看过的<div class="sanjiao">◆</div></div></div>
+				<div><img src="images/yc5.png"/><div class="you-tan">我要充值<div class="sanjiao">◆</div></div></div>
+				<div><img src="images/yc6.png"/><div class="you-tan">会员权益<div class="sanjiao">◆</div></div></div>
+			</div>
+		</div>
+		
+		
+		
+		<div class="top">
+				<div class="w1230 top1 qingchu">
+					<div class="left">
+						<a href="index.html"><i class="iconfont icon-fangzi" style="color: red"></i>天猫首页&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+						<em style="font-size: 12px; color: #999;">喵，欢迎来天猫</em>
+						<a href="login.html" id="y" style="font-size: 14px;color: red;">请登录</a>
+						<a href="register.html">免费注册</a>
+					</div>
+					<div class="right">
+						<ul class="top-r">
+							<li class="" id="xl1">
+								<a href="">我的淘宝</a><i class="jt"></i>
+								<div class="wdtb-x yck">
+									<a href="">已买到的宝贝</a>
+									<a href="">已卖出的宝贝</a>
+								</div>
+							</li>
+					
+							<li class="hbg"><i class="iconfont top-i-color">&#xf0179;</i><a href="">购物车<em id="gwc">0</em>件</a></li>
+							<li class="" id="xl2">
+								<a href="">收藏夹</a><i class="jt"></i>
+								<div class="wdtb-x yck" style="width: 62px;">
+									<a href="">收藏的宝贝</a>
+									<a href="">收藏的店铺</a>
+								</div>
+							</li>
+							<li class="shu"></li>
+							<li id="">
+								<i class="iconfont top-i-color">&#xe608;</i>
+								<a href="">手机版</a>
+								<div class="sjb yck">
+									<!--<img src="images/tm.jpg"/>-->
+								</div>
+							</li>
+							<li><a href="">淘宝网</a></li>
+							
+							<li class="" id="xl3">
+								<a href="">商家支持</a><i class="jt"></i>
+								<div class="yck sjzc">
+									<dl class="qingchu">     
+										<dt><h3>商家:</h3></dt>
+										<dd><a href="">商家中心</a></dd>
+										<dd><a href="">商家入驻</a></dd>
+										<dd><a href="">运营服务</a></dd>
+										<dd><a href="">商家品控</a></dd>
+										<dd><a href="">商家工具</a></dd>
+										<dd><a href="">商家规则</a></dd>
+										<dd><a href="">天猫智库</a></dd>
+										<dd><a href="">喵言喵语</a></dd>
+									</dl>
+									<dl class="qingchu padd-t">
+										<dt><h3>帮助:</h3></dt>
+										<dd><a href="">帮助中心</a></dd>
+									</dl>
+								</div>
+							</li>
+							<li class="" id="xl4">
+								<i class="iconfont top-i-color">&#xe504;</i>
+								<a href="">网站导航</a><i class="jt"></i>
+								<div class="yck wzdh qingchu">
+									<div class="wzdh-div1">	<!-- 作用是包含dl 让dl可以设置margin =  - 20px； -->
+										<dl>           
+											<dt class="qingchu"><h2>热点推荐</h2><h2>Hot</h2></dt>
+											<dd><a href="">天猫超市</a></dd>
+											<dd><a href="">喵鲜生</a></dd>
+											<dd><a href="">科技新品</a></dd>
+											<dd><a href="">女装新品</a></dd>
+											<dd><a href="">酷玩街</a></dd>
+											<dd><a href="">内衣新品</a></dd>
+											<dd><a href="">试美妆</a></dd>
+											<dd><a href="">运动新品</a></dd>
+											<dd><a href="">时尚先生</a></dd>
+											<dd><a href="">精明妈咪</a></dd>
+											<dd><a href="">吃乐会</a></dd>
+											<dd><a href="">企业采购</a></dd>
+											<dd><a href="">会员积分</a></dd>
+											<dd><a href="">天猫国际</a></dd>
+										</dl>
+									</div>  
+									<div class="wzdh-div2">	
+										<dl>           
+											<dt class="qingchu"><h2>行业市场</h2><h2>Market</h2></dt>
+											<dd><a href="">美妆</a></dd>
+											<dd><a href="">电器</a></dd>
+											<dd><a href="">女装</a></dd>
+											<dd><a href="">男装</a></dd>
+											<dd><a href="">女鞋</a></dd>
+											<dd><a href="">男鞋</a></dd>
+											<dd><a href="">内衣</a></dd>
+											<dd><a href="">箱包</a></dd>
+											<dd><a href="">运动</a></dd>
+											<dd><a href="">母婴</a></dd>
+											<dd><a href="">家装</a></dd>
+											<dd><a href="">医药</a></dd>
+											<dd><a href="">食品</a></dd>
+											<dd><a href="">配饰</a></dd>
+											<dd><a href="">汽车</a></dd>
+										</dl>
+									</div>
+									<div class="wzdh-div3" >	
+										<dl>           
+											<dt class="qingchu"><h2>品牌风尚</h2><h2>Brand</h2></dt>
+											<dd><a href="">尚天猫</a></dd>
+											<dd><a href="">大牌街</a></dd>
+											<dd><a href="">潮牌街</a></dd>
+											<dd><a href="">天猫原创</a></dd>
+											<dd><a href="">什么牌子好</a></dd>
+										</dl>
+									</div>
+									<div class="wzdh-div4">	
+										<dl>              
+											<dt class="qingchu"><h2>服务指南</h2><h2>Help</h2></dt>
+											<dd><a href="">帮助中心</a></dd>
+											<dd><a href="">品质保障</a></dd>
+											<dd><a href="">特色服务</a></dd>
+											<dd><a href="">7天退换货</a></dd>
+										</dl>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<!---->
+			<div class="header">
+				<h1>
+					<img src="images/ll.png" />
+				</h1>
+				<div class="ss-div qingchu">
+					<form class="qingchu" id="sss" style="border-color: #ff0036;">
+							<!--<label for="ssk" style="color: rgb(102,102,102);">搜索 天猫 商品/品牌/店铺</label>-->
+							<input type="text" name="ssk" id="ssk" onchange="change()" placeholder=" 搜索 天猫 商品/品牌/店铺"/>
+							
+							<button type="submit" style="background: #ff0036;">搜索</button>
+						</form>
+										<ul></ul>
+						
+
+				</div>
+
+				<div class="tt">
+					<img src="images/li.png" />
+				</div>
+			</div>
+			
+			<!---->
+			<div class="con">
+				<div class="con-l">
+					<li><a class="s">首页</a><i class="ss">></i></li>
+					<li><a class="s">时尚彩妆</a><i class="ss">></i></li>
+					<li style="width: 81px;height: 22px;">
+						<div class="car">
+							<div class="x">
+								<a class="s">唇膏/口红</a>
+								<i class="jt"></i>
+							</div>
+						</div>
+						
+					</li>
+					<!--<i class="ss" style="margin-left: 224px">></i>
+					<li class="sea">
+						<form></form>
+					</li>-->
+					
+				</div>
+				<div class="con-r">
+					<p>共6666件商品</p>
+				</div>
+			</div>
+			
+			<!---->
+			<div class="pp">
+				<div class="pp-s">
+					<div class="pp-sl">品牌</div>
+					<div class="pp-sr">
+						<ul class="vv">
+							<li>
+								
+								<img src="images/icon24.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								
+								<img src="images/icon24.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon26.jpg">
+								<span>点我</span>
+							</li>
+							<li>
+								<img src="images/icon27.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon28.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon33.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon25.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon26.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon27.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon28.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon33.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon25.jpg">
+								<span>点我</span>
+								
+							</li>
+							<li>
+								<img src="images/icon26.jpg">
+								<span>点我</span>
+								
+							</li>
+							
+							
+							
+						</ul>
+						
+					</div>
+				</div>
+				
+				<div class="pp-x">
+					<div class="attr">
+						<div class="attrKey">分类</div>
+						<div class="attrValue">
+							<ul>
+								
+								<li><a>彩妆</a></li>
+								<li><a>其他膳食营养补充食品</a></li>
+								<li><a>唇部护理</a></li>
+								<li><a>面部护理</a></li>
+								<li><a>饰品</a></li>
+								<li><a>湿润</a></li>
+								<li><a>湿润</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="attr">
+						<div class="attrKey">产地</div>
+						<div class="attrValue">
+							<ul>
+								
+								<li><a>法国</a></li>
+								<li><a>意大利</a></li>
+								<li><a>日本</a></li>
+								<li><a>美国</a></li>
+								<li><a>韩国</a></li>
+								<li><a>泰国</a></li>
+								<li><a>澳大利亚</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="attr">
+						<div class="attrKey">功能</div>
+						<div class="attrValue">
+							<ul>
+								
+								<li><a>滋润</a></li>
+								<li><a>保湿</a></li>
+								<li><a>易上色</a></li>
+								<li><a>提升气色</a></li>
+								<li><a>不易脱妆</a></li>
+								<li><a>持久</a></li>
+								<li><a>持久不掉色</a></li>
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+				
+				<!---->
+				<div class="zx">
+					<div class="border"></div>
+					<!--<a class="d">
+						<i class="iconfont icon-xiajiantou"></i>
+						
+					</a>-->
+				</div>
+			</div>
+			
+			<!---->
+			<div class="filter">
+				<a class="aa" style="background: #f1edec;color: red;">
+					<i></i>
+					综合
+				</a>
+				<a class="aa">
+					<i></i>
+					人气
+				</a>
+				<a class="aa">
+					<i></i>
+					新品
+				</a>
+				<a class="aa">
+					<i></i>
+					销量
+				</a>
+				<a class="aa">
+					<i></i>
+					价格
+				</a>
+			</div>
+			
+			<!---->
+			<div class="gm">
+				<!--<div class="gmm">
+					<a href="shopcar.html"></a>
+					<a><img src="images/l13.jpg"></a>
+					<p>¥299.00</p>
+					<div class="xl">Dior/迪奥 烈艳蓝金唇膏</div>
+					<button href="shoplist.html">立即购买</button>
+				</div>-->
+				
+			</div>
+			
+			<!--<div id="box">
+				<span id="left" style="margin-left: 20px">上一页</span>
+				<ul id="u">
+					<li>1</li>
+					<li>2</li>
+					<li>3</li>
+				</ul>
+				<span id="right">下一页</span>
+			</div>-->
+			<div id="box">
+				<div class="box_con" style="margin-top: 20px;margin-left: 350px;width: 400px;">
+					<p id="first">首页</p>
+					<span id="left">上一页</span>
+					<ul id="u">
+						<li>1</li>
+						<li>2</li>
+						<li>3</li>
+					</ul>
+					<span id="right">下一页</span>
+				</div>
+				<div id="jump"style="margin-top: 20px;">
+					<p>跳转到第</p><input type="text" id="num"/><p>页</p>
+					<button id="btn">确定</button>
+				</div>
+		</div>
+
+
+<div class="footer">
+		<div class="dibu qingchu">
+			<div class="db-1">
+				<a href=""></a>
+				<a href=""></a>
+				<a href=""></a>
+				<a href=""></a>
+			</div>
+			<div class="db-2">
+				<dl>
+					<dt>购物指南</dt>
+					<dd>
+						<a href="">免费注册</a>
+						<a href="">开通支付宝</a>
+						<a href="">支付宝充值</a>
+					</dd>
+				</dl>
+				<dl>
+					<dt>天猫保障</dt>
+					<dd>
+						<a href="">发票保障</a>
+						<a href="">售后规则</a>
+						<a href="">缺货赔付</a>
+					</dd>
+				</dl>
+				<dl>
+					<dt>购物指南</dt>
+					<dd>
+						<a href="">免费注册</a>
+						<a href="">开通支付宝</a>
+						<a href="">支付宝充值</a>
+					</dd>
+				</dl>
+				<dl>
+					<dt>天猫保障</dt>
+					<dd>
+						<a href="">发票保障</a>
+						<a href="">售后规则</a>
+						<a href="">缺货赔付</a>
+						<a href="">发票保障</a>
+						<a href="">售后规则</a>
+						<a href="">缺货赔付</a>
+					</dd>
+				</dl>
+				<dl>
+					<dt>手机天猫</dt>
+					<dd>
+						<a href=""><img src="images/db1.png"/></a>
+					</dd>
+				</dl>
+			</div>
+			<div class="db-3">
+				<p class="db-3-p">
+					<a href="">关于天猫</a>
+					<a href="">帮助中心</a>
+					<a href="">开放平台</a>
+					<a href="">诚聘英才</a>
+					<a href="">联系我们</a>
+					<a href="">网站合作</a>
+					<a href="">法律声明及隐私权政策</a>
+					<a href="">知识产权</a>
+					<a href="">廉正举报</a>
+					<a href="">规则意见征集</a>
+				</p>
+				<p class="db-3-p">
+					<a href="">阿里巴巴集团</a>| 
+					<a href="">淘宝网</a>| 
+					<a href="">天猫</a>| 
+					<a href="">聚划算</a>| 
+					<a href="">全球速卖通</a>| 
+					<a href="">阿里巴巴国际交易市场</a>| 
+					<a href="">1688</a>| 
+					<a href="">阿里妈妈</a>| 
+					<a href="">飞猪</a>| 
+					<a href="">阿里云计算</a>| 
+					<a href="">YunOS</a>| 
+					<a href="">阿里通信</a>| 
+					<a href="">万网</a>| 
+					<a href="">高德</a>| 
+					<a href="">UC</a>| 
+					<a href="">友盟</a>| 
+					<a href="">虾米</a>| 
+					<a href="">阿里星球</a>| 
+					<a href="">来往</a>| 
+					<a href="">钉钉</a>|
+					<a href="">支付宝</a>
+				</p>
+				<div class="db-3-xinxi">
+					增值电信业务经营许可证： <a href="">浙B2-20110446</a> 网络文化经营许可证：<a href="">浙网文[2015]0295-065号</a> <a href="">12318举报</a></br>
+					互联网药品信息服务资质证书编号：<a href="">浙-（经营性）-2017-0005</a>   
+					<b>© 2003-2017 TMALL.COM 版权所有</b>
+					<p>
+						<a href="" class="a1"><img src="images/db3.jpg"/></a>
+						<a href="" class="a2"><img src="images/db4.jpg"/></a>
+					</p>
+				</div>
+			</div>
+		
+		</div>
+	</body>
+</html>
+
+<script src="js/jquery-1.11.1.js"></script>
+<!--<script src="jquery.min.js"></script>-->
+<script src="js/list.js"></script>
+<script src="js/json.js"></script>
+<script src="js/ajax.js"></script>
+<script src="js/login.js"></script>
+
+<script>
+	
+	window.onload = function(){
+		let index = 1;
+		let pageNum = 10;
+			getData();
+		function getData(){
+			ajaxGet("json/list.json",function(res){
+				let arr = JSON.parse(res);
+				
+				let str = "";
+				for (let i = (index-1)*10;i<index*10;i++) {
+					if(i<arr.list.length){
+						let pro = arr.list[i];
+						
+						str += `<div class="gmm">
+									<a href="list_page.html?id=${pro.id}"><img src="images/${pro.src}"></a>
+									<p>${pro.price}</p>
+									<div class="xl">${pro.name}</div>
+									<button data-pid=${pro.id} data-pname=${pro.name} data-price=${pro.price} data-src=${pro.src}>${pro.gm}</button>
+								</div>`;
+					}
+				}
+				$(".gm").html(str)
+				//计算页数
+				totalPage = Math.ceil(arr.list.length / pageNum);
+				let page = "";
+				//重新拼接页码
+				for(let i = 1;i<=totalPage;i++){
+					page +=`<li>${i}</li>`;
+				}
+				u.innerHTML = page;
+				//当前index页面高亮显示
+				
+				u.children[index-1].className = "active";
+						
+			})
+		}
+		//上一页和下一页
+		right.onclick = function(){
+			index++;
+			if( index > totalPage ){
+				index = totalPage;
+			}else{
+				getData();
+			}
+		}
+		left.onclick = function(){
+			index--;
+			if( index < 1 ){
+				index = 1;
+			}else{
+				getData();
+			}
+		}
+		
+		//点击页码  显示当前页的数据
+		u.addEventListener( "click" , function(evt){
+			let e = evt || event;
+			let target = e.target || e.srcElement;
+			if( target.tagName == "LI" ){
+				index = Number(target.innerHTML);
+				getData();
+			}
+		} )
+		
+		//3-完成加入购物车功能
+		//一个按钮的点击事件 使用委托实现
+		var arr = []; //存放多个商品对象
+		$(".gm").on( "click" , "button" , function(){
+			var json = {};//存放每一个商品对象信息
+			json = {
+				"id" : $(this).data("pid"),
+				"src" : $(this).data("src"),
+				"price" : $(this).data("price").match(/(\d+)/)[0],
+				"name" : $(this).data("pname"),
+				"count":1
+			}
+			
+			/*console.log(json);*/
+			var flag = true;//假设值为true时   可以向数组中push对象
+			//判断当前点击的商品在cookie中是否存在  如果存在就将该商品的数量++  否则就将这个新商品存入到数组中
+			//取出cookie中的数据
+			var brr = getCookie("gm");
+			
+			if( brr.length > 0 ){ //说明cookie中有数据
+				//将取出来的cookie数据存入到arr中  因为最终是要将arr数据存入到cookie中
+				arr = brr;
+				//如何判断当前的json商品在arr中是否存在？？？
+				//判断当前的json对象的id值是否和arr中某个对象的id相等
+				for( var i = 0 ; i < arr.length ; i++ ){
+					if(arr[i].id == json.id){//说明当前选择的商品在cookie中是存在的
+						arr[i].count++;
+						flag = false;
+						break;
+					}
+				}
+			} 
+			
+			if( flag ){
+				//将对象json添加到数组中
+				arr.push( json );
+			}
+			
+			//将数组存入到cookie中
+			setCookie( "gm" , JSON.stringify( arr ) );//cookie中存入的都是字符串
+			
+			if( !confirm("确定-继续购买，取消-跳转到购物车页面") ){
+				location.href = "shopcar.html";
+			}
+		} )
+
+
+	}
+		
+	
+	
+
+
+
+</script>
